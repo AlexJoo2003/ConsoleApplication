@@ -1,0 +1,6 @@
+/home/alex_joo/Documents/Projects/C#/ConsoleApplication1/ConsoleApplication1/bin/Debug/ConsoleApplication1.exe
+/home/alex_joo/Documents/Projects/C#/ConsoleApplication1/ConsoleApplication1/bin/Debug/ConsoleApplication1.pdb
+/home/alex_joo/Documents/Projects/C#/ConsoleApplication1/ConsoleApplication1/obj/Debug/ConsoleApplication1.csprojAssemblyReference.cache
+/home/alex_joo/Documents/Projects/C#/ConsoleApplication1/ConsoleApplication1/obj/Debug/ConsoleApplication1.csproj.CoreCompileInputs.cache
+/home/alex_joo/Documents/Projects/C#/ConsoleApplication1/ConsoleApplication1/obj/Debug/ConsoleApplication1.exe
+/home/alex_joo/Documents/Projects/C#/ConsoleApplication1/ConsoleApplication1/obj/Debug/ConsoleApplication1.pdb
